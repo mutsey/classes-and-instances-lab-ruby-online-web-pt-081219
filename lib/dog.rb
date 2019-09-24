@@ -1,3 +1,4 @@
 Class Dog 
 end 
 
+fido=
