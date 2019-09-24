@@ -4,7 +4,7 @@ end
 fido=Dog.new 
 fido#=>#
 
-snoopy=dog.new 
+snoopy=Dog.new 
 snoopy#=> 
 
 lassie=Dog.new 
