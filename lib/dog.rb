@@ -2,5 +2,10 @@ Class Dog
 end 
 
 fido=Dog.new 
-fido #=> 
+fido#=>#
 
+snoopy=dog.new 
+snoopy#=> 
+
+lassie=Dog.new 
+lassie#=> 
